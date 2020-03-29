@@ -250,8 +250,6 @@ while (True):
         print('=-='*20)
         public_key_users_two = int(input("Digite a chave publica: "))
 
-
-
     original_text = descifra(text_cifra,n,d)
 
     print('=-='*20)
